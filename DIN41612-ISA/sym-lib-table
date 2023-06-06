@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "robotron_ec1834")(type "KiCad")(uri "${KIPRJMOD}/robotron_ec1834.kicad_sym")(options "")(descr ""))
+)
